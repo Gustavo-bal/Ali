@@ -1,0 +1,3 @@
+carro
+muñeca
+pelota
