@@ -9,7 +9,7 @@
       </ul>
     </div>
     <div ng-app ng-init="checked = false">
-				        <form class="form-signin" action="" method="post" name="form">
+				        <form class="form-signin" action="procesar.php" method="post" name="form">
           <label for="username">Username</label>
           <input class="form-styling" type="text" name="username" placeholder=""/>
           <label for="password">Password</label>
@@ -21,7 +21,7 @@
           </div>
 				        </form>
         
-				        <form class="form-signup" action="procesar.php" method="post" name="form">
+				        <form class="form-signup" action="" method="post" name="form">
           <label for="fullname">Full name</label>
           <input class="form-styling" type="text" name="fullname" placeholder=""/>
           <label for="email">Email</label>
